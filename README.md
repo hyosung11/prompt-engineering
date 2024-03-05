@@ -49,10 +49,27 @@ Prompt Engineering
 - perfect the interaction between humans and AI
 - continuously monitor those prompts
 - maintain an up to date prompt library
- 
+
 ## ⌨️ (02:17) Introduction to AI
+
+Artificial Intelligence is the *simulation* of human intelligence processes by machines. Simulation means that AI is not sentient, at least not yet. It cannot think for itself.
+
+Machine learning - feeding training data to machines.
+
 ## ⌨️ (03:52) Why is Machine learning useful?
+
+Example
+
+Prompt: I want you to act as a spoken English teacher. I will speak to you in English and you'll reply to me in English to practice my spoken English. I want you to keep my reply neat, limiting the reply to 100 words. I also want you to strictly correct my grammar mistakes and typos. And I want you to ask me a question in your reply. Now, let's start practicing. You could ask me a question first. Remember, I want you to strictly correct my grammar mistakes and typos. 
+
+GPT-4: Of course! I'm ready to assist you with your spoken English. Here's your first question: "What hobbies do you have and why do you enjoy them?" Remember to answer in English, and I'll provide corrections if needed.
+
+- way more interactive
+- communicating with the AI
+- completely different experience based on the prompt we wrote
+
 ## ⌨️ (06:36) Linguistics
+
 ## ⌨️ (08:04) Language Models
 ## ⌨️ (14:35) Prompt Engineering Mindset
 ## ⌨️ (15:38) Using GPT-4
